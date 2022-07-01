@@ -380,14 +380,14 @@ nav > ul li a:active {
 
 .iphonePreview {
 	grid-area: p;
-	background-image: url($device-color);
+	// background-image: url($device-color);
 	background-size: 400px auto;
 	background-repeat: no-repeat;
-	margin-top: 68px;
+	// margin-top: 68px;
 }
 
 .iphoneScreen {
-	width: 349px;
+	width: 400px;
 	-webkit-clip-path: url(#screenMask);
 	clip-path: url(#screenMask);
 	margin-left: 26px;
@@ -446,8 +446,8 @@ nav > ul li a:active {
 	}
 
 	.iphoneScreen {
-		width: 226px;
-		height: 488px;
+		width: 322px;
+		height: 538px;
 		-webkit-clip-path: url(#screenMask);
 		clip-path: url(#screenMask);
 		margin: 0px;

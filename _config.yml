@@ -13,7 +13,7 @@ presskit_download_link                    :                                     
 app_icon                                  : assets/appicon.png                        # Automatically populates if not set and if iOS app ID is set.  Otherwise enter path to icon file manually.
 app_name                                  : Cryo                                      # Automatically populates if not set and if iOS app ID is set.  Otherwise enter manually.
 app_price                                 :                                           # Automatically populates if not set and if iOS app ID is set.  Otherwise enter manually.
-app_description                           : Discover the powers of cold shower with Cryo.
+app_description                           : Discover the power of cold showers with Cryo 🔥. Become a healthier, more disciplined version of you.
 
 enable_smart_app_banner                   : true                                      # Set to true to show a smart app banner at top of page on mobile devices.
 
@@ -35,41 +35,29 @@ youtube_username                          :
 # Feature List                            Edit, add or remove features to be presented.
 features                                  :
 
-  - title                                 : GitHub Pages Jekyll Theme
-    description                           : Designed for GitHub Pages. Fork. Edit _config.yml. Upload screenshot/video. Push to gh-pages branch. Voilá!
-    fontawesome_icon_name                 : magic
+  - title                                 : Reduced stress levels
+    description                           : Regularly taking cold showers trains your nervous system to become more resilient.
+    fontawesome_icon_name                 : brain
 
-  - title                                 : iPhone Device Preview
-    description                           : Preview your app in the context of an iPhone device. Five different device colors included.
-    fontawesome_icon_name                 : mobile
+  - title                                 : Stronger immune system
+    description                           : Research shows that cold showers increase the number of white blood cells in your body, which protect your body against diseases.
+    fontawesome_icon_name                 : first-aid
 
-  - title                                 : Video Support
-    description                           : Preview app video on the iPhone device simply by placing your video files in the videos folder.
-    fontawesome_icon_name                 : play-circle
+  - title                                 : Weight loss
+    description                           : Cold showers increase your metabolic rate and are an effective method to help you get lean.
+    fontawesome_icon_name                 : weight
 
-  - title                                 : Automatic Icon and Metadata
-    description                           : Enter iOS app ID in the _config.yml file to automatically fetch app icon, price and App Store Link.
-    fontawesome_icon_name                 : sync
+  - title                                 : Improved sexual health
+    description                           : Prolonged exposure to cold water has also been shown to increase testosterone production, boosting the libido and enhancing overall strength and energy in the process.
+    fontawesome_icon_name                 : heart
 
-  - title                                 : Easy to Tweak
-    description                           : Tweak accent color, images, icons and transparency via the _config.yml file. No HTML/CSS needed.
-    fontawesome_icon_name                 : adjust
+  - title                                 : Increased willpower
+    description                           : Cold showers are an effective and safe way to learn how to become comfortable with being uncomfortable.
+    fontawesome_icon_name                 : bolt
 
-  - title                                 : Feature List
-    description                           : Add features (like this one) to your site via the _config.yml file. No HTML/CSS needed.
-    fontawesome_icon_name                 : star
-
-  - title                                 : Smart App Banner
-    description                           : Display a smart app banner on iOS devices.
-    fontawesome_icon_name                 : arrow-alt-circle-down
-
-  - title                                 : Social Links
-    description                           : Easily add social media accounts and contact info in the footer via the _config.yml file. No HTML/CSS needed.
-    fontawesome_icon_name                 : link
-
-  - title                                 : FontAwesome Support
-    description                           : Pick custom Font Awesome icons for the feature list via the _config.yml file. No HTML/CSS needed.
-    fontawesome_icon_name                 : info-circle
+  - title                                 : Faster muscle recovery
+    description                           : Research found that cold water immersion can help enhance recovery and reduce feelings of fatigue for athletes.
+    fontawesome_icon_name                 : dumbbell
 
   - title                                 : # New Feature Title
     description                           : # New Feature Description
@@ -78,13 +66,13 @@ features                                  :
 
 
 # Theme Settings
-topbar_color                              : "#59BDFE"
+topbar_color                              : "#219AFE"
 topbar_transparency                       : 0.1
 topbar_title_color                        : "#ffffff"
 
 cover_image                               : # assets/headerimage.png                    # Replace with alternative image path or image URL.
-cover_overlay_color                       : "#59BDFE"
-cover_overlay_transparency                : 0.8
+cover_overlay_color                       : "#219AFE"
+cover_overlay_transparency                : 1
 
 device_color                              : black                                     # Set to: blue, black, yellow, coral or white.
 
