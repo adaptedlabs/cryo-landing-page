@@ -108,12 +108,7 @@ We may update this privacy notice from time to time. The updated version will be
 <br>
 
 ## 9.0 How can you contact us about this notice?
-If you have questions or comments about this notice, you may email us at getcryoapp@gmail.com or by post to:
-
-CryoApp Inc.
-__________
-__________
-United States
+If you have questions or comments about this notice, you may email us at getcryoapp@gmail.com.
 
 <br>
 
