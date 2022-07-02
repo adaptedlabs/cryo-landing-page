@@ -112,7 +112,7 @@ If you have questions or comments about this notice, you may email us at getcryo
 
 <br>
 
-## 9.0 How can you review, update, or delete the data we collect from you?
+## 10.0 How can you review, update, or delete the data we collect from you?
 Based on the applicable laws of your country, you may have the right to request access to the personal information we collect from you, change that information, or delete it. To request to review, update, or delete your personal information, please submit a request form by emailing getcryoapp@gmail.com.
 
 <br>
