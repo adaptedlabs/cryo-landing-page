@@ -1,5 +1,5 @@
 #page title
-page_title                                : Cold Shower App - Cryo                    # Automatically populates with app name if not set and if iOS app ID is set. Otherwise enter manually.
+page_title                                : Discover the benefits of cold showers | Cryo - Cold Shower App (available on iOS) # Automatically populates with app name if not set and if iOS app ID is set. Otherwise enter manually.
 
 # App Info
 ios_app_id                                : 1632354353                                # Required. Enter iOS app ID to automatically populate name, price and icons (e.g. 718043190).
@@ -13,7 +13,7 @@ presskit_download_link                    :                                     
 app_icon                                  : assets/appicon.png                        # Automatically populates if not set and if iOS app ID is set.  Otherwise enter path to icon file manually.
 app_name                                  : Cryo                                      # Automatically populates if not set and if iOS app ID is set.  Otherwise enter manually.
 app_price                                 :                                           # Automatically populates if not set and if iOS app ID is set.  Otherwise enter manually.
-app_description                           : Discover the health benefit of cold showers for your body and challenge yourself with Cryo app - available on iOS. Inspired by Wim Hof's "Becoming the Iceman", use cold shower therapy to become a healthier and disciplined version of you. 
+app_description                           : Unlock the benefit of cold shower therapy for your body by making cold showers a part of your daily routine with Cryo. Inspired by Wim Hof's "Becoming the Iceman", Cryo guides you through your cold shower session, starting with a warm shower and followed by a cold shower. Cryo will gradually increase the cold shower timer so you can safely make progress.
 
 enable_smart_app_banner                   : true                                      # Set to true to show a smart app banner at top of page on mobile devices.
 
