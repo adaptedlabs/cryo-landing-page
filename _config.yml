@@ -48,11 +48,11 @@ features                                  :
     fontawesome_icon_name                 : first-aid
 
   - title                                 : Weight loss
-    description                           : Cold showers increase your metabolic rate and are an effective method to help you get lean.
+    description                           : Cold showers increase your metabolic rate and can be an effective method to help you get lean.
     fontawesome_icon_name                 : weight
 
   - title                                 : Improved sexual health
-    description                           : Prolonged exposure to cold water has also been shown to increase testosterone production, boosting the libido and enhancing overall strength and energy in the process.
+    description                           : Prolonged exposure to cold water has also been shown to increase testosterone production in men.
     fontawesome_icon_name                 : heart
 
   - title                                 : Increased willpower
