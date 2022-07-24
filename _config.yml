@@ -13,7 +13,7 @@ presskit_download_link                    :                                     
 app_icon                                  : assets/appicon.png                        # Automatically populates if not set and if iOS app ID is set.  Otherwise enter path to icon file manually.
 app_name                                  : Cryo                                      # Automatically populates if not set and if iOS app ID is set.  Otherwise enter manually.
 app_price                                 :                                           # Automatically populates if not set and if iOS app ID is set.  Otherwise enter manually.
-app_description                           : Unlock the benefit of cold shower therapy for your body by making cold showers a part of your daily routine with Cryo. Inspired by Wim Hof's "Becoming the Iceman", Cryo guides you through your cold shower session, starting with a warm shower and followed by a cold shower. Cryo will gradually increase the cold shower timer so you can safely make progress.
+app_description                           : Unlock the benefit of cold shower therapy for your body by making them a part of your daily routine with Cryo. Inspired by Wim Hof's "Becoming the Iceman".
 
 enable_smart_app_banner                   : true                                      # Set to true to show a smart app banner at top of page on mobile devices.
 
