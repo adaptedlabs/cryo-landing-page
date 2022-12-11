@@ -5,114 +5,68 @@ include_in_header: false
 ---
 
 **Last updated**  
-July 1 2022
+Dec 10 2022
 
-# Privacy Policy
-This privacy notice for CryoApp Inc. ("Company," "we," "us," or "our"), describes how and why we might collect, store, use, and/or share ("process") your information when you use our services ("Services"), such as when you:
-Download and use our mobile application (Cryo - Cold Shower App), or any other application of ours that links to this privacy notice
-Engage with us in other related ways, including any sales, marketing, or events
-Questions or concerns? Reading this privacy notice will help you understand your privacy rights and choices. If you do not agree with our policies and practices, please do not use our Services. If you still have any questions or concerns, please contact us at getcryoapp@gmail.com.
+**Privacy Policy**
 
-<br>
+Cryo built the Cryo App app as a Free app. This SERVICE is provided by Cryo at no cost and is intended for use as is.
 
-## 1.0 Information We Collect
-In Short: We collect personal information that you provide to us.
+This page is used to inform visitors regarding our policies with the collection, use, and disclosure of Personal Information if anyone decided to use our Service.
 
-We collect personal information that you voluntarily provide to us when you express an interest in obtaining information about us or our products and Services, when you participate in activities on the Services, or otherwise when you contact us.
+If you choose to use our Service, then you agree to the collection and use of information in relation to this policy. The Personal Information that we collect is used for providing and improving the Service. We will not use or share your information with anyone except as described in this Privacy Policy.
 
-Personal Information Provided by You. The personal information that we collect depends on the context of your interactions with us and the Services, the choices you make, and the products and features you use. The personal information we collect may include the following:
-email addresses
-Sensitive Information. We do not process sensitive information.
+The terms used in this Privacy Policy have the same meanings as in our Terms and Conditions, which are accessible at Cryo App unless otherwise defined in this Privacy Policy.
 
-Application Data. If you use our application(s), we also may collect the following information if you choose to provide us with access or permission:
-Mobile Device Access. We may request access or permission to certain features from your mobile device, including your mobile device's calendar, reminders, and other features. If you wish to change our access or permissions, you may do so in your device's settings.
-Push Notifications. We may request to send you push notifications regarding your account or certain features of the application(s). If you wish to opt out from receiving these types of communications, you may turn them off in your device's settings.
-This information is primarily needed to maintain the security and operation of our application(s), for troubleshooting, and for our internal analytics and reporting purposes.
+**Information Collection and Use**
 
-All personal information that you provide to us must be true, complete, and accurate, and you must notify us of any changes to such personal information.
+For a better experience, while using our Service, we may require you to provide us with certain personally identifiable information. The information that we request will be retained by us and used as described in this privacy policy.
 
-<br>
+The app does use third-party services that may collect information used to identify you.
 
-## 2.0 How do we process your information
-In Short: We process your information to provide, improve, and administer our Services, communicate with you, for security and fraud prevention, and to comply with law. We may also process your information for other purposes with your consent.
+Link to the privacy policy of third-party service providers used by the app
 
-We process your personal information for a variety of reasons, depending on how you interact with our Services, including:
+*   [Google Analytics for Firebase](https://firebase.google.com/policies/analytics)
+*   [Firebase Crashlytics](https://firebase.google.com/support/privacy/)
 
-To save or protect an individual's vital interest. We may process your information when necessary to save or protect an individual’s vital interest, such as to prevent harm.
+**Log Data**
 
+We want to inform you that whenever you use our Service, in a case of an error in the app we collect data and information (through third-party products) on your phone called Log Data. This Log Data may include information such as your device Internet Protocol (“IP”) address, device name, operating system version, the configuration of the app when utilizing our Service, the time and date of your use of the Service, and other statistics.
 
-## 3.0 What rights do you, as the data subject, have
-In Short: We only process your personal information when we believe it is necessary and we have a valid legal reason (i.e., legal basis) to do so under applicable law, like with your consent, to comply with laws, to provide you with services to enter into or fulfill our contractual obligations, to protect your rights, or to fulfill our legitimate business interests.
+**Cookies**
 
-If you are located in the EU or UK, this section applies to you.
+Cookies are files with a small amount of data that are commonly used as anonymous unique identifiers. These are sent to your browser from the websites that you visit and are stored on your device's internal memory.
 
-The General Data Protection Regulation (GDPR) and UK GDPR require us to explain the valid legal bases we rely on in order to process your personal information. As such, we may rely on the following legal bases to process your personal information:
-Consent. We may process your information if you have given us permission (i.e., consent) to use your personal information for a specific purpose. You can withdraw your consent at any time. Click here to learn more.
-Legal Obligations. We may process your information where we believe it is necessary for compliance with our legal obligations, such as to cooperate with a law enforcement body or regulatory agency, exercise or defend our legal rights, or disclose your information as evidence in litigation in which we are involved.
-Vital Interests. We may process your information where we believe it is necessary to protect your vital interests or the vital interests of a third party, such as situations involving potential threats to the safety of any person.
+This Service does not use these “cookies” explicitly. However, the app may use third-party code and libraries that use “cookies” to collect information and improve their services. You have the option to either accept or refuse these cookies and know when a cookie is being sent to your device. If you choose to refuse our cookies, you may not be able to use some portions of this Service.
 
-If you are located in Canada, this section applies to you.
+**Service Providers**
 
-We may process your information if you have given us specific permission (i.e., express consent) to use your personal information for a specific purpose, or in situations where your permission can be inferred (i.e., implied consent). You can withdraw your consent at any time. Click here to learn more.
+We may employ third-party companies and individuals due to the following reasons:
 
-In some exceptional cases, we may be legally permitted under applicable law to process your information without your consent, including, for example:
-If collection is clearly in the interests of an individual and consent cannot be obtained in a timely way
-For investigations and fraud detection and prevention
-For business transactions provided certain conditions are met
-If it is contained in a witness statement and the collection is necessary to assess, process, or settle an insurance claim
-For identifying injured, ill, or deceased persons and communicating with next of kin
-If we have reasonable grounds to believe an individual has been, is, or may be victim of financial abuse
-If it is reasonable to expect collection and use with consent would compromise the availability or the accuracy of the information and the collection is reasonable for purposes related to investigating a breach of an agreement or a contravention of the laws of Canada or a province
-If disclosure is required to comply with a subpoena, warrant, court order, or rules of the court relating to the production of records
-If it was produced by an individual in the course of their employment, business, or profession and the collection is consistent with the purposes for which the information was produced
-If the collection is solely for journalistic, artistic, or literary purposes
-If the information is publicly available and is specified by the regulations
+*   To facilitate our Service;
+*   To provide the Service on our behalf;
+*   To perform Service-related services; or
+*   To assist us in analyzing how our Service is used.
 
-<br>
+We want to inform users of this Service that these third parties have access to their Personal Information. The reason is to perform the tasks assigned to them on our behalf. However, they are obligated not to disclose or use the information for any other purpose.
 
-## 4.0 What is our stance on third-party websites?
-In Short: We may share information in specific situations described in this section and/or with the following third parties.
+**Security**
 
-We may need to share your personal information in the following situations:
-Business Transfers. We may share or transfer your information in connection with, or during negotiations of, any merger, sale of company assets, financing, or acquisition of all or a portion of our business to another company.
+We value your trust in providing us your Personal Information, thus we are striving to use commercially acceptable means of protecting it. But remember that no method of transmission over the internet, or method of electronic storage is 100% secure and reliable, and we cannot guarantee its absolute security.
 
-<br>
+**Links to Other Sites**
 
-## 5.0 How long do we keep your information?
-In Short: We keep your information for as long as necessary to fulfill the purposes outlined in this privacy notice unless otherwise required by law.
+This Service may contain links to other sites. If you click on a third-party link, you will be directed to that site. Note that these external sites are not operated by us. Therefore, we strongly advise you to review the Privacy Policy of these websites. We have no control over and assume no responsibility for the content, privacy policies, or practices of any third-party sites or services.
 
-We will only keep your personal information for as long as it is necessary for the purposes set out in this privacy notice, unless a longer retention period is required or permitted by law (such as tax, accounting, or other legal requirements). No purpose in this notice will require us keeping your personal information for longer than 90 days.
+**Children’s Privacy**
 
-When we have no ongoing legitimate business need to process your personal information, we will either delete or anonymize such information, or, if this is not possible (for example, because your personal information has been stored in backup archives), then we will securely store your personal information and isolate it from any further processing until deletion is possible.
+These Services do not address anyone under the age of 13. We do not knowingly collect personally identifiable information from children under 13 years of age. In the case we discover that a child under 13 has provided us with personal information, we immediately delete this from our servers. If you are a parent or guardian and you are aware that your child has provided us with personal information, please contact us so that we will be able to do the necessary actions.
 
-<br>
+**Changes to This Privacy Policy**
 
-## 6.0 How do we keep your information safe?
-In Short: We aim to protect your personal information through a system of organizational and technical security measures.
+We may update our Privacy Policy from time to time. Thus, you are advised to review this page periodically for any changes. We will notify you of any changes by posting the new Privacy Policy on this page.
 
-We have implemented appropriate and reasonable technical and organizational security measures designed to protect the security of any personal information we process. However, despite our safeguards and efforts to secure your information, no electronic transmission over the Internet or information storage technology can be guaranteed to be 100% secure, so we cannot promise or guarantee that hackers, cybercriminals, or other unauthorized third parties will not be able to defeat our security and improperly collect, access, steal, or modify your information. Although we will do our best to protect your personal information, transmission of personal information to and from our Services is at your own risk. You should only access the Services within a secure environment.
+This policy is effective as of 2022-12-11
 
-<br>
+**Contact Us**
 
-
-## 7.0 Controls for do-not-track features.
-Most web browsers and some mobile operating systems and mobile applications include a Do-Not-Track ("DNT") feature or setting you can activate to signal your privacy preference not to have data about your online browsing activities monitored and collected. At this stage no uniform technology standard for recognizing and implementing DNT signals has been finalized. As such, we do not currently respond to DNT browser signals or any other mechanism that automatically communicates your choice not to be tracked online. If a standard for online tracking is adopted that we must follow in the future, we will inform you about that practice in a revised version of this privacy notice.
-
-<br>
-
-## 8.0 Do we make updates to this notice?
-In Short: Yes, we will update this notice as necessary to stay compliant with relevant laws.
-
-We may update this privacy notice from time to time. The updated version will be indicated by an updated "Revised" date and the updated version will be effective as soon as it is accessible. If we make material changes to this privacy notice, we may notify you either by prominently posting a notice of such changes or by directly sending you a notification. We encourage you to review this privacy notice frequently to be informed of how we are protecting your information.
-
-<br>
-
-## 9.0 How can you contact us about this notice?
-If you have questions or comments about this notice, you may email us at getcryoapp@gmail.com.
-
-<br>
-
-## 10.0 How can you review, update, or delete the data we collect from you?
-Based on the applicable laws of your country, you may have the right to request access to the personal information we collect from you, change that information, or delete it. To request to review, update, or delete your personal information, please submit a request form by emailing getcryoapp@gmail.com.
-
-<br>
+If you have any questions or suggestions about our Privacy Policy, do not hesitate to contact us at getcryoapp@gmail.com.
